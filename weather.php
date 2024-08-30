@@ -89,7 +89,6 @@
         <button type="submit">Get Weather</button>
     </form>
     <div id="weatherResult"></div>
-    <p><a href="index.html">Go Back</a></p>
 
     <script>
         document.getElementById('weatherForm').addEventListener('submit', function (event)
